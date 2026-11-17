@@ -16,7 +16,7 @@ PAIP（Personal AI Interoperability Protocol）は、異なる所有者が管理
 ## まず読むもの
 
 1. [研究概要](PAIP_R0-M_research_brief.md)：5分で読めます。
-2. 回答先：Q1の Issue（研究概要の§6にリンクがあります）
+2. 回答先：[Q1 の Issue](https://github.com/pikipoa/paip-research/issues/1)
 
 ## 資料
 

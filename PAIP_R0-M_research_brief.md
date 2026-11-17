@@ -91,7 +91,7 @@ XACMLの4つの判定は、PAIPの4値判定と同じ意味ではありません
 
 ## 6. 資料と連絡先
 
-- RC3.1 本文（この版で固定した参照資料）：〔公開URL〕
-- RC3.2 candidate（未承認・未検証の検討案。補助資料であり、Q1への回答に読む必要はありません）：〔公開URL〕
-- 回答先（Q1のみ）：〔GitHub Issue のURL〕
+- RC3.1 本文（この版で固定した参照資料）：https://github.com/pikipoa/paip-research/blob/a83a4c731d96eff4397b95ada0a384e4aba55358/specs/PAIP_R0-M_RC3.1.md
+- RC3.2 candidate（未承認・未検証の検討案。補助資料であり、Q1への回答に読む必要はありません）：https://github.com/pikipoa/paip-research/blob/a83a4c731d96eff4397b95ada0a384e4aba55358/specs/PAIP_R0-M_RC3.2_candidate.md
+- 回答先（Q1のみ）：https://github.com/pikipoa/paip-research/issues/1
 - いただいた指摘は、許可をいただいたうえで、お名前とともに記録します。
